@@ -22,6 +22,7 @@ function draw(){
      console.log("J'ai dépassé")
      direction = false;
    }
+    //J'ajoute mon grain de sel inutil
   }
   console.log(XA,YA);
 }
