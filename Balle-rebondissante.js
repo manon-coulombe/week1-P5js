@@ -26,4 +26,8 @@ function draw(){
   console.log(XA,YA);
 }
 /*On est Lundi, vivement Vendredi !!!*/
+<<<<<<< HEAD
 /* nouveau message de test*/
+=======
+//realize me
+>>>>>>> 505bd8e282d43026f5fae37b7be010563172cfbc
